@@ -1,0 +1,11 @@
+{
+  "name": "botgengar",
+  "version": "1.0.0",
+  "description": "Gengar, seu bot fantasma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flp",
+  "license": "ISC"
+}
